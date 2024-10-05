@@ -1,3 +1,3 @@
 ## reorderable_grid:
 
-![example](example.gif)
+![example](example-1.gif)
