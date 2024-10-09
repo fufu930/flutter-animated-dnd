@@ -1,3 +1,3 @@
-## App Preview:
+## Preview:
 
-![](example-1.gif)
+![](example.gif)
