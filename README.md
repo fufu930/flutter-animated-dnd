@@ -1,3 +1,3 @@
-## reorderable_grid:
+## App Preview:
 
-![example](example-1.gif)
+![](example-1.gif)
